@@ -1,13 +1,14 @@
 ### Olá, seja bem-vindo(a) 👋
 Me chamo Victor, tenho 22 anos e moro em Belo Horizonte - MG!
 
-- 🔭 I’m currently working on ...
+- 📚 Sou aluno do SENAI - MG no curso de Técnico de Desenvolvimento de Sistemas.
+- 🔭 Estou a procura de conhecimento e experiências!
+
 <!--
 **ovitudev/ovitudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
