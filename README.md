@@ -17,6 +17,7 @@ Me chamo Victor, tenho 22 anos e moro em Belo Horizonte - MG!
  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <!--
 **ovitudev/ovitudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
