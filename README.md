@@ -9,7 +9,7 @@ Me chamo Victor, tenho 22 anos e moro em Belo Horizonte - MG!
 ## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/ovitudev)
+)](https://www.linkedin.com/in/ovitudev/)
 
 ## Tecnologias que utilizo no dia a dia
 
