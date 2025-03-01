@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a) 👋
-Me chamo Victor, tenho 22 anos e moro em Belo Horizonte - MG!
+Me chamo Victor, tenho 23 anos e moro em Belo Horizonte - MG!
 
 - 📚 Sou aluno do SENAI - MG no curso de Técnico de Desenvolvimento de Sistemas.
 - 🔭 Estou a procura de conhecimento e experiências!
